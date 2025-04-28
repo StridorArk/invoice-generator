@@ -92,24 +92,6 @@ The app validates the following fields before exporting the invoice:
 
 If any required field is missing, a styled error message will appear.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
