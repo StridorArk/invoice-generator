@@ -11,7 +11,7 @@ Invoice Generator is a web application built with React that allows users to cre
 - **Drag-and-Drop Logo Upload**: Easily upload a company logo for branding.
 
 ## Demo
-
+![image](https://github.com/user-attachments/assets/46efc479-f005-4be4-bc2c-115fd2b0378c)
 
 ## Getting Started
 
