@@ -119,5 +119,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Create React App](https://github.com/facebook/create-react-app) for bootstrapping the project.
 - [html2canvas](https://github.com/niklasvh/html2canvas) and [jsPDF](https://github.com/parallax/jsPDF) for PDF generation.
 - [react-datepicker](https://reactdatepicker.com/) for date selection.
-
-Similar code found with 1 license type
